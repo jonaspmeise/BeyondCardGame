@@ -1,3 +1,6 @@
 /artwork_data/*
 /generated_cards/*
+/generated_cards_images/*
 /.ipynb_checkpoints/*
+cards.xcf
+cards.xlsx
