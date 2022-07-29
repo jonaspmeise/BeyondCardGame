@@ -43,21 +43,21 @@
     </g>
         <g><!--GROUP: Information about TEXT CONTENT-->
         <!--Information about FIRST TEXT LINE IN CARDBOX-->
-        <text text-anchor="start" font-family="Palatino Linotype" font-size="46" y="820" x="61" fill="#ffffff" visibility="visible">#EFFECT1#</text>
+        <!--<text text-anchor="start" font-family="Palatino Linotype" font-size="46" y="820" x="61" fill="#ffffff" visibility="visible">#EFFECT1#</text>-->
         <!--Information about SECOND TEXT LINE IN CARDBOX-->
-        <text text-anchor="start" font-family="Palatino Linotype" font-size="46" y="867" x="61" fill="#ffffff" visibility="visible">#EFFECT2#</text>
+        <!--<text text-anchor="start" font-family="Palatino Linotype" font-size="46" y="867" x="61" fill="#ffffff" visibility="visible">#EFFECT2#</text>-->
         <!--Information about THIRD TEXT LINE IN CARDBOX-->
-        <text text-anchor="start" font-family="Palatino Linotype" font-size="46" y="914" x="61" fill="#ffffff" visibility="visible">#EFFECT3#</text>
+        <!--<text text-anchor="start" font-family="Palatino Linotype" font-size="46" y="914" x="61" fill="#ffffff" visibility="visible">#EFFECT3#</text>-->
         <!--Information about FOURTH TEXT LINE IN CARDBOX-->
-        <text text-anchor="start" font-family="Palatino Linotype" font-size="46" y="962" x="61" fill="#ffffff" visibility="visible">#EFFECT4#</text>
+        <!--<text text-anchor="start" font-family="Palatino Linotype" font-size="46" y="962" x="61" fill="#ffffff" visibility="visible">#EFFECT4#</text>-->
         <!--Information about FIFTH TEXT LINE IN CARDBOX-->
-        <text text-anchor="start" font-family="Palatino Linotype" font-size="46" y="1008" x="61" fill="#ffffff" visibility="visible">#EFFECT5#</text>
+        <!--<text text-anchor="start" font-family="Palatino Linotype" font-size="46" y="1008" x="61" fill="#ffffff" visibility="visible">#EFFECT5#</text>-->
         <!--Information about SIXTH TEXT LINE IN CARDBOX-->
-        <text text-anchor="start" font-family="Palatino Linotype" font-size="46" y="1055" x="61" fill="#ffffff" visibility="visible">#EFFECT6#</text>
+        <!--<text text-anchor="start" font-family="Palatino Linotype" font-size="46" y="1055" x="61" fill="#ffffff" visibility="visible">#EFFECT6#</text>-->
         <!--Information about CARDNAME-->
         <text text-anchor="start" font-family="Palatino Linotype" font-size="64" y="125" x="150" textLength="#NAME_STRETCH_PERCENTAGE#%" lengthAdjust="spacingAndGlyphs" fill="#000000" visibility="visible">#NAME#</text>
         <!--Information about CARDTYPE AND SUBTYPE-->
-        <text text-anchor="start" font-family="Palatino Linotype" font-size="64" y="1185" x="200" textLength="#NAME_STRETCH_PERCENTAGE#%" lengthAdjust="spacingAndGlyphs" fill="#ffffff" visibility="visible">#CARDTYPE#</text>
+        <text text-anchor="middle" font-family="Palatino Linotype" font-size="64" y="1185" x="50%" textLength="#TYPELINE_STRETCH_PERCENTAGE#%" lengthAdjust="spacingAndGlyphs" fill="#ffffff" visibility="visible">#CARDTYPE#</text>
     </g>
     <g><!--GROUP: Information about NUMBER CONTENT-->
         <!--Information about HEALTH VALUE-->
