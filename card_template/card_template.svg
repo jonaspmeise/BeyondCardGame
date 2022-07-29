@@ -5,9 +5,9 @@
     </g>
     <g><!--GROUP: Information about DESIGN-->
         <!--Information about ARTWORK-->
-        <!--<image xlink:href="#ARTWORKURL#" x="0" y="0" width="900" height="1260" preserveAspectRatio="xMinYMin slice"/>-->
+        <image xlink:href="#ARTWORKURL#" x="0" y="0" height="1260" width="900"/>
         <!--Information about CARDTEXT BOX-->
-        <image xlink:href="#.#\card_template\layout\cardtext_box.png" x="-36" y="745"/>
+        <image xlink:href="#.#\card_template\layout\cardtext_box_#REALM#.png" x="-36" y="745"/>
         <!--Information about TEXTBOX BANNER-->
         <image xlink:href="#.#\card_template\layout\textbox_banner.png" x="41" y="37"/>
         <!--Information about LEVEL SYMBOL-->
@@ -15,13 +15,17 @@
         <!--Information about LEVEL SYMBOL DROPSHADOW-->
         <!--<image xlink:href="#.#\card_template\symbols\levelicon_dropshadow.png" x="-312" y="-207"/>-->
         <!--Information about CARDBORDER BORDER-->
-        <image xlink:href="#.#\card_template\GENERATED\card_border_color.png" x="0" y="0"/>
+        <image xlink:href="#.#\card_template\GENERATED\card_border_color_#REALM#.png" x="0" y="0"/>
         <!--Information about CARDBORDER MASK-->
         <image xlink:href="#.#\card_template\layout\card_border_texture.png" x="0" y="0"/>
         <!--Information about CARDBORDER DROPSHADOW-->
         <image xlink:href="#.#\card_template\layout\card_dropshadow.png" x="0" y="0"/>
         <!--Information about FRACTION SYMBOL IN CARDBOX-->
-        <image xlink:href="#.#\card_template\symbols\fraction_symbols\#REALM#.png" x="354" y="788" opacity="0.3"/>
+        <image xlink:href="#.#\card_template\symbols\faction_symbols\#REALM#.png" x="329" y="788" opacity="0.3"/>
+        <!--Information about HONOR SYMBOL-->
+        <image xlink:href="#.#\card_template\symbols\honor_background.png" x="275" y="555"/>
+        <!--Information about HONOR VALUE-->
+        <image xlink:href="#.#\card_template\symbols\honor_#HONOR#.png" x="275" y="555"/>
         <!--Information about CRYSTAL SYMBOL-->
         <image xlink:href="#.#\card_template\symbols\crystals\#CRYSTAL3#.png" x="646" y="74" opacity="#CRYSTAL3_OPACITY#"/>
         <image xlink:href="#.#\card_template\symbols\crystals\#CRYSTAL2#.png" x="711" y="74" opacity="#CRYSTAL2_OPACITY#"/>
@@ -35,7 +39,7 @@
         <!--Information about RARITY DROPSHADOW-->
         <!--<image xlink:href="#.#\card_template\GENERATED\rarity_#RARITY#_dropshadow.png" x="338" y="632"/>-->
         <!--Information about RARITY SYMBOL-->
-        <!--<image xlink:href="#.#\card_template\symbols\rarity_#RARITY#.png" x="353" y="647"/>-->
+        <image xlink:href="#.#\card_template\symbols\rarity_#RARITY#.png" x="353" y="990"/>
     </g>
         <g><!--GROUP: Information about TEXT CONTENT-->
         <!--Information about FIRST TEXT LINE IN CARDBOX-->
